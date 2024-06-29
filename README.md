@@ -11,7 +11,7 @@ Welcome to Hangman, a classic word-guessing game implemented in Python! Try to g
 
 - Interactive Gameplay: Allows the player to input guesses and displays the current state of the word with correctly guessed letters revealed.
 
-- Visual Feedback: Uses ASCII art from 'hangman_art.py' to display hangman stages as lives are lost.
+- Visual Feedback: Uses ASCII art from hangman_art.py to display hangman stages as lives are lost.
 
 - Win/Loss Conditions: Ends the game when the word is guessed correctly or when all lives are lost.
 
